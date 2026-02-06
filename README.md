@@ -2,55 +2,46 @@
   <img src="banner.png" width="800"/>
 </p>
 
+# 👋 Hi, I'm Iván Martínez
 
-### 🧪 QA Engineer Jr | Manual Testing | API Testing | Bug Reporting
+## 🧪 QA Engineer Jr
 
-Welcome to my GitHub profile! I'm a QA Engineer in training at TripleTen Bootcamp, passionate about software quality and continuous learning.
+QA Engineer in training at TripleTen Bootcamp with hands-on experience in:
 
----
+- Manual Testing  
+- Test Case Design  
+- Bug Reporting  
+- API Testing with Postman  
+- Requirements Analysis  
 
-## 🚀 About Me
-
-- 🎓 QA Engineer Student at TripleTen Bootcamp  
-- 🔍 Focused on Manual Testing and API Testing  
-- 🐞 Experienced in Bug Reporting and Test Case Design  
-- 🌎 Based in Tecate, Mexico  
-- 📈 Actively building my QA portfolio  
-
----
-
-## 🛠 Skills
-
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-blue)
-![API Testing](https://img.shields.io/badge/API%20Testing-Postman-orange)
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-Jira-blue)
-![Test Cases](https://img.shields.io/badge/Test%20Case%20Design-green)
-![QA](https://img.shields.io/badge/Quality%20Assurance-black)
+I am currently building my QA portfolio and seeking opportunities as a QA Engineer Jr.
 
 ---
 
-## 📂 QA Projects
+## 🛠 Technologies and Tools
 
-🔹 [QA Portfolio](https://github.com/Pitterpi/qa-portfolio)  
-🔹 Smoke Testing and Bug Reporting  
-🔹 Requirements Analysis & Test Case Design  
-
-(More projects coming soon...)
-
----
-
-## 📊 GitHub Stats
-
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pitterpi&show_icons=true&theme=tokyonight)
+- Postman
+- Jira
+- Chrome DevTools
+- Google Sheets
+- GitHub
 
 ---
 
-## 📫 Contact Me
+## 📂 Featured Projects
 
-- 📧 Email: pitter.jmc12@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/TU-USUARIO  
-- 💻 GitHub: https://github.com/Pitterpi  
+### QA Fundamentals Testing
+Smoke testing, regression testing, and bug reporting project.
+
+### Requirements Analysis & Test Case Design
+Analyzed requirements and created structured test cases.
+
+(More projects coming soon)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Contact
+
+Email: pitter.imc12@gmail.com  
+GitHub: github.com/Pitterpi  
+LinkedIn: linkedin.com/in/TU-USUARIO
