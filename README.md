@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Iván Martínez
+![Banner](banner.png)
 
 ### 🧪 QA Engineer Jr | Manual Testing | API Testing | Bug Reporting
 
