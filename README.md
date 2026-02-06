@@ -2,10 +2,6 @@
   <img src="banner.png" width="800"/>
 </p>
 
-# 👋 Hi, I'm Iván Martínez
-
-## 🧪 QA Engineer Jr
-
 QA Engineer in training at TripleTen Bootcamp with hands-on experience in:
 
 - Manual Testing  
