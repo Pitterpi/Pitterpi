@@ -1,4 +1,7 @@
-![Banner](banner.png)
+<p align="center">
+  <img src="banner.png" width="800"/>
+</p>
+
 
 ### 🧪 QA Engineer Jr | Manual Testing | API Testing | Bug Reporting
 
